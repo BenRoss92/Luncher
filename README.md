@@ -2,11 +2,17 @@
 
 ## Summary
 
-Following a Pluralsight course - [*Android Apps with Kotlin: Build Your First App*](https://app.pluralsight.com/courses/a2bc183f-8bd2-4365-9e82-2cd7afc997ce/table-of-contents)
-
-Am up to [*Demo: DataManager Properties* clip](https://app.pluralsight.com/player?course=android-apps-kotlin-build-first-app&author=jim-wilson&name=3fc3c604-a1f3-4f81-93e0-f5d356208250&clip=10&mode=live)
+Following the Pluralsight course [*Android Apps with Kotlin: Build Your First App*](https://app.pluralsight.com/courses/a2bc183f-8bd2-4365-9e82-2cd7afc997ce/table-of-contents)
 
 ## Aims
 
-* (Learn how to) build an Android app using Kotlin
-* Stretch goal - build a lunch randomiser app
+* Practice building a working Android app using Kotlin
+* Stretch goal - start building a different app to the one described in the course
+
+## Troubleshooting
+
+If at any point your app does not work, check for differences in the example exercise files from Pluralsight, which are available for [download](https://app.pluralsight.com/library/courses/android-apps-kotlin-build-first-app/exercise-files).
+
+## Known course issues
+
+Creating a basic android activity now, versus when the time at which the course author did so, creates android fragments by default. Fragments require a different setup to the one shown in the course, therefore I removed the fragments.
